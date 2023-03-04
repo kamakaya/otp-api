@@ -16,6 +16,7 @@ google-cloud-secret-manager = "^2.15.1"
 google-cloud-tasks = "2.5.1"
 google-cloud-logging = "2.2.0"
 google-api-python-client = "^2.23.0"
+pyotp = "^2.8.0"
 
 [build-system]
 requires = ["poetry-core"]
